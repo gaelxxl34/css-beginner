@@ -1,0 +1,60 @@
+body
+{
+/* background-color:#cce6ff; */
+/* background-image: url('../images/OIP.jpg');
+background-repeat: repeat-x;
+background-attachment: fixed; */
+}
+
+#boy
+{
+   background-color: blueviolet; 
+   color: white;
+}
+#girl
+{
+    background-color: chartreuse;
+    color: white;
+    font-size: 56px;
+}
+.dog
+{
+    background-color: crimson;
+    color: white;
+    text-decoration: line-through;
+}
+h3 , h4 , h5
+{
+    color: darkgoldenrod;
+    font-size: 50px;
+    text-decoration: overline;
+}
+p{
+    border-style: solid;
+    border-color: coral;
+    border-width: 4px;
+}
+/* h4
+{
+color: darkgoldenrod;
+font-size: 50px;
+text-decoration: overline;
+}
+h5{
+    color: darkgoldenrod;
+    font-size: 50px;
+    text-decoration: overline;
+} */
+
+.dv
+{
+    border-top-style: double;
+    border-bottom-style: dashed;
+    border-color:purple;
+    border-width: 20px;
+    border-radius: 15px;
+    width: 300px;
+    height: 140px;
+    margin: 50px;
+    padding: 15px;
+}
